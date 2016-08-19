@@ -1,0 +1,14 @@
+layout_spectrum: 0.5258565421681851
+typography_spectrum: 0.22104422794654965
+color:
+  brandStrength: 0.4745735367760062
+  lightness: 0.4424947681836784
+  saturation: 0.2184851197525859
+  rhythmicContrast: 0.23215065035037696
+  brandColors:
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
+name: blind faces
